@@ -1,4 +1,4 @@
-Lecture keynotes
+Keynotes
 -----------------
 
 ### Part 1 - The Javascript Language
@@ -6,7 +6,7 @@ Lecture keynotes
 - [Advanced working with functions][03]
 - [Objects & Classes][03]
 
-### Part 2 - Browser, DOM, Events, Interfaces
+### Part 2 - Browser, Document, Events, Interfaces
 
 - [UI Events][03]
 - [Web Components][03]
@@ -18,7 +18,7 @@ Lecture keynotes
 
 [03]: https://docs.google.com/presentation/d/e/2PACX-1vQBZZbIw80yoh-M5RLKceAqltDd0AiuUAJEfwz2fEjyU6xi0C3EGqolGzk1fGgk-2HGeLeI8Yf3N9s4/pub?start=false&loop=false&delayms=3000
 
-Code examples
+Projects
 -----------------
 
 1. todo-list
