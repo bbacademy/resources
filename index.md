@@ -1,19 +1,30 @@
-## Lesson keynotes
+Lecture keynotes
+-----------------
 
-### PART 1 - The Javascript Language
+### Part 1 - The Javascript Language
 
-1. [Advanced working with functions][03]
-1. [Objects & Classes][03]
+- [Advanced working with functions][03]
+- [Objects & Classes][03]
 
-### PART 2 - Browser, DOM, Events, Interfaces
+### Part 2 - Browser, DOM, Events, Interfaces
 
-1. [UI Events][03]
-1. [Web Components][03]
+- [UI Events][03]
+- [Web Components][03]
 
-### PART 3 - Advanced Topics
+### Part 3 - Advanced Topics
 
-1. [Performance][03]
-1. [Web Workers][03]
+- [Performance][03]
+- [Web Workers][03]
 
 [03]: https://docs.google.com/presentation/d/e/2PACX-1vQBZZbIw80yoh-M5RLKceAqltDd0AiuUAJEfwz2fEjyU6xi0C3EGqolGzk1fGgk-2HGeLeI8Yf3N9s4/pub?start=false&loop=false&delayms=3000
 
+Code examples
+-----------------
+
+1. todo-list
+3. xoxo-game
+4. snake-game
+5. rgb-picker
+6. whiteboard
+2. calculator
+7. drumpad
